@@ -24,3 +24,16 @@ To preserve unified Nix Flake closure deduplication (`inputs.nixpkgs.follows = "
 | **[Tetraledger](https://github.com/Tianxia-Core/Tetraledger)** | 4-way double-entry cryptographic reconciliation (`€0.00` drift), HTTP `402` (`x402`) settlement gateway & `< 50ms` `GDPR++` cryptoshredding | `Tianxia-Core/Tetraledger` | [ledger.rasaxmachina.com](https://ledger.rasaxmachina.com) |
 
 - **Commercial Licensing & Enterprise Deployment**: [rasaxmachina.com](https://rasaxmachina.com) · [Encrypted Dispatch](https://rasaxmachina.com/collins#encrypted-dispatch)
+
+---
+
+### Flagship Engineering Constitution & Lead Showcase
+
+- **[`Build Law`](https://github.com/Tianxia-Core/Build-Law)** (`MIT`) — Deterministic 4-Pillar, 14-Gate AI Engineering Standard, `< 5ms` zero-token verifier CLI, `.vsix` extension, Claude Skill, Cursor/OpenCode/Copilot rules, and `5.0×–8.8×` token-efficiency framework.
+
+<!-- PROFILE_PLAIN_ENGLISH -->
+---
+
+### 🌍 In Plain English — What We Build & Why It Matters
+
+**RASA-X-MACHINA** builds fast, self-verifying, privacy-first software infrastructure (**`tianxiaOS`**) governed by **[`Build Law`](https://github.com/Tianxia-Core/Build-Law)**—an open-source (`MIT`) engineering standard and automated inspector that stops AI coding tools from shipping unfinished placeholders, security leaks, and bloated cloud bills (`5.0×–8.8×` higher output per token). Whether you are a **developer** installing Build Law in 60 seconds, an **engineering leader** scoping a 72-hour [VRTTI Architecture Sprint](https://vrtti.rasaxmachina.com), an **investor or researcher**, or an **executive hiring committee** reviewing [Collins Takem's systems portfolio](https://rasaxmachina.com/collins), every repository here ships runnable, cryptographically verifiable proof.
